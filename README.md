@@ -34,9 +34,12 @@
     <td>Client</td>
     <td>
       <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+      <img alt="Apollo" src="https://img.shields.io/badge/apollo graphql%20-%23311C87.svg?&style=for-the-badge&logo=apollographql&logoColor=%2361DAFB"/>
       <img alt="Next.js" src="https://img.shields.io/badge/nextjs%20-%23000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white"/>
       <img alt="Svelte" src="https://img.shields.io/badge/svelte%20-%23FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white"/>
+      <img alt="Electron" src="https://img.shields.io/badge/electron%20-%2347848F.svg?&style=for-the-badge&logo=electron&logoColor=white"/>
       <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
+      <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
     </td>
   </tr>
 
@@ -71,22 +74,27 @@
       <img alt="PostGresQL" src="https://img.shields.io/badge/postgresql%20-%234169E1?&style=for-the-badge&logo=postgresql&logoColor=white"/>
       <img alt="Supabase" src="https://img.shields.io/badge/supabase%20-%23000?&style=for-the-badge&logo=supabase&logoColor=%233ECF8E"/>
       <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23FFCA28?&style=for-the-badge&logo=firebase&logoColor=black"/>
+      <img alt="Redis" src="https://img.shields.io/badge/redis%20-%23DC382D?&style=for-the-badge&logo=redis&logoColor=white"/>
+      <img alt="NGINX" src="https://img.shields.io/badge/nginx%20-%23009639?&style=for-the-badge&logo=nginx&logoColor=white"/>
     </td>
   </tr>
 
   <tr>
     <td>Deployment & Hosting</td>
     <td>
+      <img alt="Google Cloud" src="https://img.shields.io/badge/google cloud%20-%234285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white"/>
       <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-      <img alt="Docker" src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
       <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
       <img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
+      <img alt="Docker" src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+      <img alt="Linode" src="https://img.shields.io/badge/linode%20-%2300A95C.svg?&style=for-the-badge&logo=linode&logoColor=black"/>
     </td>
   </tr>
   <tr>
     <td>Tooling</td>
     <td>
       <img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black"/>
+      <img alt="Babel" src="https://img.shields.io/badge/babel%20-%23F9DC3E.svg?&style=for-the-badge&logo=babel&logoColor=black"/>
       <img alt="Snowpack" src="https://img.shields.io/badge/snowpack%20-%2329B5E8.svg?&style=for-the-badge&logo=snowpack&logoColor=white"/>
       <img alt="Vite" src="https://img.shields.io/badge/Vite%20-%23000.svg?&style=for-the-badge&logo=vite&logoColor=%23646CFF"/>
     </td>
