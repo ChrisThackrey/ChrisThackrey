@@ -39,7 +39,6 @@
       <img alt="Svelte" src="https://img.shields.io/badge/svelte%20-%23FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white"/>
       <img alt="Electron" src="https://img.shields.io/badge/electron%20-%2347848F.svg?&style=for-the-badge&logo=electron&logoColor=white"/>
       <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
-      <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
     </td>
   </tr>
 
@@ -50,6 +49,7 @@
       <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
       <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white"/>
       <img alt="Fastify" src="https://img.shields.io/badge/fastify%20-%23000000.svg?&style=for-the-badge&logo=fastify&logoColor=white"/>
+      <img alt="NGINX" src="https://img.shields.io/badge/nginx%20-%23009639?&style=for-the-badge&logo=nginx&logoColor=white"/>
     </td>
   </tr>
 
@@ -63,6 +63,7 @@
       <img alt="Chakra UI" src="https://img.shields.io/badge/chakraui%20-17202C.svg?&style=for-the-badge&logo=chakraui&logoColor=%23319795"/>
       <img alt="Styled-Components" src="https://img.shields.io/badge/styledcomponents%20-%23DB7093.svg?&style=for-the-badge&logo=styledcomponents&logoColor=black"/>
       <img alt="D3.js" src="https://img.shields.io/badge/d3%20-%23F9A03C.svg?&style=for-the-badge&logo=d3dotjs&logoColor=black"/>
+      <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
     </td>
   </tr>
 
@@ -75,7 +76,6 @@
       <img alt="Supabase" src="https://img.shields.io/badge/supabase%20-%23000?&style=for-the-badge&logo=supabase&logoColor=%233ECF8E"/>
       <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23FFCA28?&style=for-the-badge&logo=firebase&logoColor=black"/>
       <img alt="Redis" src="https://img.shields.io/badge/redis%20-%23DC382D?&style=for-the-badge&logo=redis&logoColor=white"/>
-      <img alt="NGINX" src="https://img.shields.io/badge/nginx%20-%23009639?&style=for-the-badge&logo=nginx&logoColor=white"/>
     </td>
   </tr>
 
