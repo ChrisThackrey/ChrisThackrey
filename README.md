@@ -75,7 +75,7 @@
       <img alt="PostGresQL" src="https://img.shields.io/badge/postgresql%20-%234169E1?&style=for-the-badge&logo=postgresql&logoColor=white"/>
       <img alt="Supabase" src="https://img.shields.io/badge/supabase%20-%23000?&style=for-the-badge&logo=supabase&logoColor=%233ECF8E"/>
       <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23FFCA28?&style=for-the-badge&logo=firebase&logoColor=black"/>
-      <img alt="MySQL" src="https://img.shields.io/badge/mysql%20-%23323330?&style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img alt="MySQL" src="https://img.shields.io/badge/mysql%20-%23323330?&style=for-the-badge&logo=mysql&logoColor=%234479A1"/>
       <img alt="Redis" src="https://img.shields.io/badge/redis%20-%23DC382D?&style=for-the-badge&logo=redis&logoColor=white"/>
     </td>
   </tr>
