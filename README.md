@@ -4,6 +4,10 @@
 
 [![Support me on BMC](https://img.shields.io/badge/Follow%20me%20on-DEV-black?style=for-the-badge)](https://dev.to/christhackrey) [![Support me on Buy Me a Coffee](https://img.shields.io/badge/Support%20me-☕-orange.svg?style=for-the-badge)](https://www.buymeacoffee.com/christhackrey)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChrisThackrey/ChrisThackrey/output/github-contribution-grid-snake.svg" />
+</p>
+
 ## 🚀 About Me
 
 - 💡 I like to explore new technologies and find clever hacks.
@@ -13,12 +17,6 @@
 - 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Extensive background in Design
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/chris-thackrey-015/)
-
-## Snake eating my contribution graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ChrisThackrey/ChrisThackrey/output/github-contribution-grid-snake.svg" />
-</p>
 
 ## 🛠 My Tech Stack
 
