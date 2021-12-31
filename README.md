@@ -146,7 +146,7 @@
 
 ## Snake eating my contribution graph (public repos only)
 
-![snake gif](https://raw.githubusercontent.com/ChrisThackrey/ChrisThackrey/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/ChrisThackrey/ChrisThackrey/output/github-contribution-grid-snake.gif)
 
 <!-- <details>
   <summary>Work projects I can share</summary>
