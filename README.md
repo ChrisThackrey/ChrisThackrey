@@ -14,6 +14,12 @@
 - ⚡ Extensive background in Design
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/chris-thackrey-015/)
 
+## Snake eating my contribution graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChrisThackrey/ChrisThackrey/output/github-contribution-grid-snake.svg" />
+</p>
+
 ## 🛠 My Tech Stack
 
 <table>
@@ -137,12 +143,6 @@
     </td>
   </tr>
 </table>
-
-## Snake eating my contribution graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ChrisThackrey/ChrisThackrey/output/github-contribution-grid-snake.svg" />
-</p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrisThackrey&theme=nightowl" alt="ChrisThackrey's Streak Stats" title="ChrisThackrey's Streak Stats"/>
 
