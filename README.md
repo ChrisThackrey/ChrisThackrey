@@ -144,9 +144,9 @@
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisThackrey&langs_count=6&layout=compact&theme=nightowl" /> -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ChrisThackrey/ChrisThackrey/output/github-contribution-grid-snake.svg" />
-</p>
+## Snake eating my contribution graph (public repos only)
+
+![snake gif](https://raw.githubusercontent.com/ChrisThackrey/ChrisThackrey/blob/output/github-contribution-grid-snake.gif)
 
 <!-- <details>
   <summary>Work projects I can share</summary>
