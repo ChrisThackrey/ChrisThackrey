@@ -138,17 +138,17 @@
   </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrisThackrey&theme=nightowl" alt="ChrisThackrey's Streak Stats" title="ChrisThackrey's Streak Stats"/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisThackrey&count_private=true&hide=stars&theme=nightowl" />
-
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisThackrey&langs_count=6&layout=compact&theme=nightowl" /> -->
-
 ## Snake eating my contribution graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ChrisThackrey/ChrisThackrey/output/github-contribution-grid-snake.svg" />
 </p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrisThackrey&theme=nightowl" alt="ChrisThackrey's Streak Stats" title="ChrisThackrey's Streak Stats"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisThackrey&count_private=true&hide=stars&theme=nightowl" />
+
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisThackrey&langs_count=6&layout=compact&theme=nightowl" /> -->
 
 <!-- <details>
   <summary>Work projects I can share</summary>
