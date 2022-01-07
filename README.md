@@ -14,7 +14,6 @@
 - 🔧 Currently working on my Portfolio Website 🔧
 - 🌱 Currently learning [Astro](https://astro.build/) and [Rust](https://www.rust-lang.org/)!
 - :mortar_board: Hack Reactor ATX Cohort 53
-- 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Extensive background in Design
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/chris-thackrey-015/)
 
