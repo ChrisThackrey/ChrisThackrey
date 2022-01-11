@@ -43,7 +43,7 @@
       <img alt="Electron" src="https://img.shields.io/badge/electron%20-%2347848F.svg?&style=for-the-badge&logo=electron&logoColor=white"/>
       <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
       <a href="https://astro.build/"> <img alt="Astro" src="https://img.shields.io/badge/astro%20-%23ff5d01.svg?&style=for-the-badge&logo=alacritty&logoColor=white"/> </a>
-      <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
+      <a href="https://api.jquery.com/"> <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/> </a>
     </td>
   </tr>
 
