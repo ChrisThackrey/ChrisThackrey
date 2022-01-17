@@ -38,19 +38,19 @@
     <td>
       <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
       <img alt="Apollo" src="https://img.shields.io/badge/apollo graphql%20-%23311C87.svg?&style=for-the-badge&logo=apollographql&logoColor=%2361DAFB"/>
-      <a href="https://nextjs.org/"> <img alt="Next.js" src="https://img.shields.io/badge/nextjs%20-%23000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white"/> </a>
+      <a href="https://nextjs.org/"><img alt="Next.js" src="https://img.shields.io/badge/nextjs%20-%23000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
       <img alt="Svelte" src="https://img.shields.io/badge/svelte%20-%23FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white"/>
       <img alt="Electron" src="https://img.shields.io/badge/electron%20-%2347848F.svg?&style=for-the-badge&logo=electron&logoColor=white"/>
       <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
-      <a href="https://astro.build/"> <img alt="Astro" src="https://img.shields.io/badge/astro%20-%23ff5d01.svg?&style=for-the-badge&logo=alacritty&logoColor=white"/> </a>
-      <a href="https://api.jquery.com/"> <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/> </a>
+      <a href="https://astro.build/"><img alt="Astro" src="https://img.shields.io/badge/astro%20-%23ff5d01.svg?&style=for-the-badge&logo=alacritty&logoColor=white"/></a>
+      <a href="https://api.jquery.com/"><img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/></a>
     </td>
   </tr>
 
   <tr>
     <td>Server</td>
     <td>
-      <a href="https://graphql.org/"> <img alt="GraphQL" src="https://img.shields.io/badge/graphql%20-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white"/> </a>
+      <a href="https://graphql.org/"><img alt="GraphQL" src="https://img.shields.io/badge/graphql%20-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white"/></a>
       <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white"/>
       <img alt="Fastify" src="https://img.shields.io/badge/fastify%20-%23000000.svg?&style=for-the-badge&logo=fastify&logoColor=white"/>
       <img alt="NGINX" src="https://img.shields.io/badge/nginx%20-%23009639?&style=for-the-badge&logo=nginx&logoColor=white"/>
@@ -62,13 +62,13 @@
     <td>
       <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=black"/>
       <img alt="Sass" src="https://img.shields.io/badge/sass%20-17202C.svg?&style=for-the-badge&logo=sass&logoColor=%23CC6699"/>
-      <a href="https://tailwindcss.com/"> <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwindcss&logoColor=%23000000"/> </a>
+      <a href="https://tailwindcss.com/"><img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwindcss&logoColor=%23000000"/></a>
       <img alt="MaterialUI" src="https://img.shields.io/badge/materialui%20-%230081CB.svg?&style=for-the-badge&logo=materialui&logoColor=%23000000"/>
-      <a href="https://chakra-ui.com/"> <img alt="Chakra UI" src="https://img.shields.io/badge/chakraui%20-17202C.svg?&style=for-the-badge&logo=chakraui&logoColor=%23319795"/> </a>
+      <a href="https://chakra-ui.com/"><img alt="Chakra UI" src="https://img.shields.io/badge/chakraui%20-17202C.svg?&style=for-the-badge&logo=chakraui&logoColor=%23319795"/></a>
       <img alt="Styled-Components" src="https://img.shields.io/badge/styledcomponents%20-%23DB7093.svg?&style=for-the-badge&logo=styledcomponents&logoColor=black"/>
-      <a href="https://d3js.org/"> <img alt="D3.js" src="https://img.shields.io/badge/d3%20-%23F9A03C.svg?&style=for-the-badge&logo=d3dotjs&logoColor=black"/> </a>
+      <a href="https://d3js.org/"><img alt="D3.js" src="https://img.shields.io/badge/d3%20-%23F9A03C.svg?&style=for-the-badge&logo=d3dotjs&logoColor=black"/></a>
       <img alt="Three.js" src="https://img.shields.io/badge/three.js%20-%23000000.svg?&style=for-the-badge&logo=threedotjs&logoColor=white"/>
-      <a href="https://storybook.js.org/"> <img alt="Storybook" src="https://img.shields.io/badge/storybook%20-%23FF4785.svg?&style=for-the-badge&logo=storybook&logoColor=white"/> </a>
+      <a href="https://storybook.js.org/"><img alt="Storybook" src="https://img.shields.io/badge/storybook%20-%23FF4785.svg?&style=for-the-badge&logo=storybook&logoColor=white"/></a>
     </td>
   </tr>
 
@@ -78,7 +78,7 @@
       <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
       <img alt="PostGresQL" src="https://img.shields.io/badge/postgresql%20-%234169E1?&style=for-the-badge&logo=postgresql&logoColor=white"/>
       <img alt="Supabase" src="https://img.shields.io/badge/supabase%20-%23000?&style=for-the-badge&logo=supabase&logoColor=%233ECF8E"/>
-      <a href="https://supabase.com/"> <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23FFCA28?&style=for-the-badge&logo=firebase&logoColor=black"/> </a>
+      <a href="https://supabase.com/"><img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23FFCA28?&style=for-the-badge&logo=firebase&logoColor=black"/></a>
       <img alt="MySQL" src="https://img.shields.io/badge/mysql%20-%23323330?&style=for-the-badge&logo=mysql&logoColor=%234479A1"/>
       <img alt="Redis" src="https://img.shields.io/badge/redis%20-%23DC382D?&style=for-the-badge&logo=redis&logoColor=white"/>
     </td>
@@ -88,7 +88,7 @@
     <td>Mobile Development</td>
     <td>
       <img alt="React Native" src="https://img.shields.io/badge/react native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-      <a href="https://expo.dev/"> <img alt="Expo" src="https://img.shields.io/badge/expo%20-%23404d59.svg?&style=for-the-badge&logo=expo&logoColor=%23000020"/> </a>
+      <a href="https://expo.dev/"><img alt="Expo" src="https://img.shields.io/badge/expo%20-%23404d59.svg?&style=for-the-badge&logo=expo&logoColor=%23000020"/></a>
     </td>
   </tr>
 
@@ -101,7 +101,7 @@
       <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=black"/>
       <img alt="Google Cloud" src="https://img.shields.io/badge/google cloud%20-%234285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white"/>
       <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
-      <a href="https://vercel.com/home?utm_source=next-site&utm_medium=banner&utm_campaign=next-website"> <img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/> </a>
+      <a href="https://vercel.com/home?utm_source=next-site&utm_medium=banner&utm_campaign=next-website"><img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
       <img alt="Linode" src="https://img.shields.io/badge/linode%20-%2300A95C.svg?&style=for-the-badge&logo=linode&logoColor=black"/>
     </td>
   </tr>
@@ -111,10 +111,10 @@
     <td>
       <img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black"/>
       <img alt="Babel" src="https://img.shields.io/badge/babel%20-%23F9DC3E.svg?&style=for-the-badge&logo=babel&logoColor=black"/>
-      <a href="https://www.snowpack.dev/"> <img alt="Snowpack" src="https://img.shields.io/badge/snowpack%20-%2329B5E8.svg?&style=for-the-badge&logo=ardour&logoColor=black"/> </a>
-      <a href="https://vitejs.dev/"> <img alt="Vite" src="https://img.shields.io/badge/Vite%20-%23000.svg?&style=for-the-badge&logo=vite&logoColor=%23646CFF"/> </a>
+      <a href="https://www.snowpack.dev/"><img alt="Snowpack" src="https://img.shields.io/badge/snowpack%20-%2329B5E8.svg?&style=for-the-badge&logo=ardour&logoColor=black"/></a>
+      <a href="https://vitejs.dev/"><img alt="Vite" src="https://img.shields.io/badge/Vite%20-%23000.svg?&style=for-the-badge&logo=vite&logoColor=%23646CFF"/></a>
       <img alt="Sveltekit" src="https://img.shields.io/badge/sveltekit%20-%23FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white"/>
-      <a href="https://turborepo.org/"> <img alt="TurboRepo" src="https://img.shields.io/badge/turborepo%20-%23000000.svg?&style=for-the-badge&logo=turborepo&logoColor=white"/> </a>
+      <a href="https://turborepo.org/"><img alt="TurboRepo" src="https://img.shields.io/badge/turborepo%20-%23000000.svg?&style=for-the-badge&logo=turborepo&logoColor=white"/></a>
     </td>
   </tr>
 
