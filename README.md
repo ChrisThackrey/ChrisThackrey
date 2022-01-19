@@ -121,7 +121,7 @@
   <tr>
     <td>Testing</td>
     <td>
-      <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=black"/>
+      <a href="https://jestjs.io/"><img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=black"/></a>
       <img alt="Cypress" src="https://img.shields.io/badge/cypress-%2317202C?&style=for-the-badge&logo=cypress&logoColor=white"/>
       <img alt="Mocha" src="https://img.shields.io/badge/mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=black"/>
       <img alt="Chai" src="https://img.shields.io/badge/chai-%23A30701?&style=for-the-badge&logo=chai&logoColor=black"/>
