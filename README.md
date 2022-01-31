@@ -109,8 +109,8 @@
   <tr>
     <td>Tooling</td>
     <td>
-      <img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black"/>
-      <img alt="Babel" src="https://img.shields.io/badge/babel%20-%23F9DC3E.svg?&style=for-the-badge&logo=babel&logoColor=black"/>
+      <a href="https://webpack.js.org/"><img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black"/></a>
+      <a href="https://babeljs.io/"><img alt="Babel" src="https://img.shields.io/badge/babel%20-%23F9DC3E.svg?&style=for-the-badge&logo=babel&logoColor=black"/></a>
       <a href="https://www.snowpack.dev/"><img alt="Snowpack" src="https://img.shields.io/badge/snowpack%20-%2329B5E8.svg?&style=for-the-badge&logo=ardour&logoColor=black"/></a>
       <a href="https://vitejs.dev/"><img alt="Vite" src="https://img.shields.io/badge/Vite%20-%23000.svg?&style=for-the-badge&logo=vite&logoColor=%23646CFF"/></a>
       <a href="https://kit.svelte.dev/"><img alt="Sveltekit" src="https://img.shields.io/badge/sveltekit%20-%23FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white"/></a>
