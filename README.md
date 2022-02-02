@@ -81,6 +81,7 @@
       <a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23FFCA28?&style=for-the-badge&logo=firebase&logoColor=black"/></a>
       <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/mysql%20-%23323330?&style=for-the-badge&logo=mysql&logoColor=%234479A1"/></a>
       <a href="https://redis.io/"><img alt="Redis" src="https://img.shields.io/badge/redis%20-%23DC382D?&style=for-the-badge&logo=redis&logoColor=white"/></a>
+      <a href="https://planetscale.com/"><img alt="PlanetScale" src="https://img.shields.io/badge/planetscale%20-%23000000.svg?&style=for-the-badge&logo=planetscale&logoColor=white"/></a>
     </td>
   </tr>
 
@@ -102,7 +103,7 @@
       <a href="https://cloud.google.com/"><img alt="Google Cloud" src="https://img.shields.io/badge/google cloud%20-%234285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white"/></a>
       <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/></a>
       <a href="https://vercel.com/home?utm_source=next-site&utm_medium=banner&utm_campaign=next-website"><img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
-      <a href="https://www.linode.com/"><img alt="Linode" src="https://img.shields.io/badge/linode%20-%2300A95C.svg?&style=for-the-badge&logo=linode&logoColor=black"/></a>
+      <!-- <a href="https://www.linode.com/"><img alt="Linode" src="https://img.shields.io/badge/linode%20-%2300A95C.svg?&style=for-the-badge&logo=linode&logoColor=black"/></a> -->
     </td>
   </tr>
 
