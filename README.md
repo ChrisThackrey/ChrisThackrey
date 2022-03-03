@@ -40,7 +40,7 @@
       <a href="https://www.apollographql.com/"><img alt="Apollo" src="https://img.shields.io/badge/apollo graphql%20-%23311C87.svg?&style=for-the-badge&logo=apollographql&logoColor=%2361DAFB"/></a>
       <a href="https://nextjs.org/"><img alt="Next.js" src="https://img.shields.io/badge/nextjs%20-%23000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
       <a href="https://svelte.dev/"><img alt="Svelte" src="https://img.shields.io/badge/svelte%20-%23FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white"/></a>
-      <a href="https://www.electronjs.org/"><img alt="Electron" src="https://img.shields.io/badge/electron%20-%2347848F.svg?&style=for-the-badge&logo=electron&logoColor=white"/></a>
+      <a href=""><img alt="Electron" src="https://img.shields.io/badge/electron%20-%2347848F.svg?&style=for-the-badge&logo=electron&logoColor=white"/></a>
       <a href="https://redux.js.org/"><img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/></a>
       <a href="https://astro.build/"><img alt="Astro" src="https://img.shields.io/badge/astro%20-%23ff5d01.svg?&style=for-the-badge&logo=alacritty&logoColor=white"/></a>
       <a href="https://api.jquery.com/"><img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/></a>
