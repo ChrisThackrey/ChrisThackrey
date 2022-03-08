@@ -75,7 +75,7 @@
   <tr>
     <td>Backend</td>
     <td>
-      <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+      <a href=""><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></a>
       <a href="https://www.postgresql.org/about/"><img alt="PostGresQL" src="https://img.shields.io/badge/postgresql%20-%234169E1?&style=for-the-badge&logo=postgresql&logoColor=white"/></a>
       <a href="https://supabase.com/"><img alt="Supabase" src="https://img.shields.io/badge/supabase%20-%23000?&style=for-the-badge&logo=supabase&logoColor=%233ECF8E"/></a>
       <a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23FFCA28?&style=for-the-badge&logo=firebase&logoColor=black"/></a>
