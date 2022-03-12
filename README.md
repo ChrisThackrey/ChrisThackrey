@@ -64,7 +64,7 @@
       <a href="https://sass-lang.com/"><img alt="Sass" src="https://img.shields.io/badge/sass%20-17202C.svg?&style=for-the-badge&logo=sass&logoColor=%23CC6699"/></a>
       <a href="https://tailwindcss.com/"><img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwindcss&logoColor=%23000000"/></a>
       <a href="https://mui.com/"><img alt="MaterialUI" src="https://img.shields.io/badge/materialui%20-%230081CB.svg?&style=for-the-badge&logo=materialui&logoColor=%23000000"/></a>
-      <a href="https://chakra-ui.com/"><img alt="Chakra UI" src="https://img.shields.io/badge/chakraui%20-17202C.svg?&style=for-the-badge&logo=chakraui&logoColor=%23319795"/></a>
+      <a href=""><img alt="Chakra UI" src="https://img.shields.io/badge/chakraui%20-17202C.svg?&style=for-the-badge&logo=chakraui&logoColor=%23319795"/></a>
       <a href="https://styled-components.com/"><img alt="Styled-Components" src="https://img.shields.io/badge/styledcomponents%20-%23DB7093.svg?&style=for-the-badge&logo=styledcomponents&logoColor=black"/></a>
       <a href="https://d3js.org/"><img alt="D3.js" src="https://img.shields.io/badge/d3%20-%23F9A03C.svg?&style=for-the-badge&logo=d3dotjs&logoColor=black"/></a>
       <a href="https://threejs.org/"><img alt="Three.js" src="https://img.shields.io/badge/three.js%20-%23000000.svg?&style=for-the-badge&logo=threedotjs&logoColor=white"/></a>
