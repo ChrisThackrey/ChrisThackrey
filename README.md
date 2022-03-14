@@ -81,7 +81,7 @@
       <a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23FFCA28?&style=for-the-badge&logo=firebase&logoColor=black"/></a>
       <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/mysql%20-%23323330?&style=for-the-badge&logo=mysql&logoColor=%234479A1"/></a>
       <a href="https://redis.io/"><img alt="Redis" src="https://img.shields.io/badge/redis%20-%23DC382D?&style=for-the-badge&logo=redis&logoColor=white"/></a>
-      <a href=""><img alt="PlanetScale" src="https://img.shields.io/badge/planetscale%20-%23000000.svg?&style=for-the-badge&logo=planetscale&logoColor=white"/></a>
+      <a href="https://planetscale.com/"><img alt="PlanetScale" src="https://img.shields.io/badge/planetscale%20-%23000000.svg?&style=for-the-badge&logo=planetscale&logoColor=white"/></a>
     </td>
   </tr>
 
