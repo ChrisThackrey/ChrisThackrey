@@ -50,7 +50,7 @@
   <tr>
     <td>Server</td>
     <td>
-      <a href=""><img alt="GraphQL" src="https://img.shields.io/badge/graphql%20-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white"/></a>
+      <a href="https://graphql.org/"><img alt="GraphQL" src="https://img.shields.io/badge/graphql%20-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white"/></a>
       <a href="https://expressjs.com/"><img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white"/></a>
       <a href="https://www.fastify.io/"><img alt="Fastify" src="https://img.shields.io/badge/fastify%20-%23000000.svg?&style=for-the-badge&logo=fastify&logoColor=white"/></a>
       <a href="https://www.nginx.com/"><img alt="NGINX" src="https://img.shields.io/badge/nginx%20-%23009639?&style=for-the-badge&logo=nginx&logoColor=white"/></a>
