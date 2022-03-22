@@ -61,7 +61,7 @@
     <td>UI Libraries</td>
     <td>
       <a href="https://blog.getbootstrap.com/2021/05/05/bootstrap-5/"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=black"/></a>
-      <a href="https://sass-lang.com/"><img alt="Sass" src="https://img.shields.io/badge/sass%20-17202C.svg?&style=for-the-badge&logo=sass&logoColor=%23CC6699"/></a>
+      <a href=""><img alt="Sass" src="https://img.shields.io/badge/sass%20-17202C.svg?&style=for-the-badge&logo=sass&logoColor=%23CC6699"/></a>
       <a href="https://tailwindcss.com/"><img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwindcss&logoColor=%23000000"/></a>
       <a href="https://mui.com/"><img alt="MaterialUI" src="https://img.shields.io/badge/materialui%20-%230081CB.svg?&style=for-the-badge&logo=materialui&logoColor=%23000000"/></a>
       <a href="https://chakra-ui.com/"><img alt="Chakra UI" src="https://img.shields.io/badge/chakraui%20-17202C.svg?&style=for-the-badge&logo=chakraui&logoColor=%23319795"/></a>
