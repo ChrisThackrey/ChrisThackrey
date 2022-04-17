@@ -68,7 +68,7 @@
       <a href="https://styled-components.com/"><img alt="Styled-Components" src="https://img.shields.io/badge/styledcomponents%20-%23DB7093.svg?&style=for-the-badge&logo=styledcomponents&logoColor=black"/></a>
       <a href="https://d3js.org/"><img alt="D3.js" src="https://img.shields.io/badge/d3%20-%23F9A03C.svg?&style=for-the-badge&logo=d3dotjs&logoColor=black"/></a>
       <a href="https://threejs.org/"><img alt="Three.js" src="https://img.shields.io/badge/three.js%20-%23000000.svg?&style=for-the-badge&logo=threedotjs&logoColor=white"/></a>
-      <a href="https://storybook.js.org/"><img alt="Storybook" src="https://img.shields.io/badge/storybook%20-%23FF4785.svg?&style=for-the-badge&logo=storybook&logoColor=white"/></a>
+      <a href=""><img alt="Storybook" src="https://img.shields.io/badge/storybook%20-%23FF4785.svg?&style=for-the-badge&logo=storybook&logoColor=white"/></a>
     </td>
   </tr>
 
