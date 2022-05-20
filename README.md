@@ -115,7 +115,7 @@
       <a href="https://babeljs.io/"><img alt="Babel" src="https://img.shields.io/badge/babel%20-%23F9DC3E.svg?&style=for-the-badge&logo=babel&logoColor=black"/></a>
       <a href="https://www.snowpack.dev/"><img alt="Snowpack" src="https://img.shields.io/badge/snowpack%20-%2329B5E8.svg?&style=for-the-badge&logo=ardour&logoColor=black"/></a>
       <a href="https://vitejs.dev/"><img alt="Vite" src="https://img.shields.io/badge/Vite%20-%23000.svg?&style=for-the-badge&logo=vite&logoColor=%23646CFF"/></a>
-      <a href=""><img alt="Sveltekit" src="https://img.shields.io/badge/sveltekit%20-%23FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white"/></a>
+      <a href="https://kit.svelte.dev/"><img alt="Sveltekit" src="https://img.shields.io/badge/sveltekit%20-%23FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white"/></a>
       <a href="https://turborepo.org/"><img alt="TurboRepo" src="https://img.shields.io/badge/turborepo%20-%23000000.svg?&style=for-the-badge&logo=turborepo&logoColor=white"/></a>
     </td>
   </tr>
