@@ -100,7 +100,7 @@
       <a href="https://podman.io/"><img alt="Podman" src="https://img.shields.io/badge/podman%20-%23892CA0.svg?&style=for-the-badge&logo=podman&logoColor=black"/></a>
       <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
       <a href="https://www.terraform.io/"><img alt="Terraform" src="https://img.shields.io/badge/terraform%20-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white"/></a>
-      <a href=""><img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=black"/></a>
+      <a href="https://aws.amazon.com/"><img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=black"/></a>
       <a href="https://cloud.google.com/"><img alt="Google Cloud" src="https://img.shields.io/badge/google cloud%20-%234285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white"/></a>
       <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/></a>
       <a href="https://vercel.com/home?utm_source=next-site&utm_medium=banner&utm_campaign=next-website"><img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
