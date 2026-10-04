@@ -1,12 +1,8 @@
 <img src="https://raw.githubusercontent.com/ChrisThackrey/ChrisThackrey/main/banner.png" alt="Hi, I'm Chris 👋" title="Hi, I'm Chris 👋"/>
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=ChrisThackrey.ChrisThackrey&style=for-the-badge&color=00cf00) [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/chris-thackrey-015/) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:c.r.thackrey@gmail.com) [<img alt="Instagram" src="https://img.shields.io/badge/chris_thackrey%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/chris_thackrey)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/chris-thackrey-015/) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:c.r.thackrey@gmail.com) [<img alt="Instagram" src="https://img.shields.io/badge/chris_thackrey%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/chris_thackrey)
 
 [![Support me on BMC](https://img.shields.io/badge/Follow%20me%20on-DEV-black?style=for-the-badge)](https://dev.to/christhackrey) [![Support me on Buy Me a Coffee](https://img.shields.io/badge/Support%20me-☕-orange.svg?style=for-the-badge)](https://www.buymeacoffee.com/christhackrey)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ChrisThackrey/ChrisThackrey/output/github-contribution-grid-snake.svg" />
-</p>
 
 ## 🚀 About Me
 
