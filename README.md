@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 - 💡 I like to explore new technologies and find clever hacks.
-- 🔧 Currently working on my Portfolio Website 🔧
+- 🔧 Frequently updating my Portfolio Website at thakr.io
 - 🌱 Currently learning [Astro](https://astro.build/) and [Rust](https://www.rust-lang.org/)!
 - :mortar_board: Hack Reactor ATX Cohort 53
 - ⚡ Extensive background in Design
